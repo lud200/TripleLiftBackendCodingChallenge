@@ -34,7 +34,7 @@
  *  
  *  PS: The output is displayed on the console for convenience.
  *  
- *  For JSON Parsing the java-json.jar is included in the zip file.
+ *  For JSON Parsing the java-json.jar is included in the zip file, please include it in the build path.
  *  **************************************************************************************************************************************************
  * */
 package advertiserPerformance;
