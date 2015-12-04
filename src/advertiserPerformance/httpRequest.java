@@ -1,4 +1,3 @@
-package advertiserPerformance;
 /*
  * **************************************************************************************************************************************************
  * 
@@ -38,6 +37,7 @@ package advertiserPerformance;
  *  For JSON Parsing the java-json.jar is included in the zip file.
  *  **************************************************************************************************************************************************
  * */
+package advertiserPerformance;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
